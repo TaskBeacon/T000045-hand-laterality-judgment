@@ -1,0 +1,228 @@
+# ============================================================================
+# Base config (human run)
+# - Used by: python main.py
+# - Scope: human experiment only (no qa/sim section in this file)
+# ============================================================================
+
+# === Subject Form ===========================================================
+subinfo_fields:
+  - name: subject_id
+    type: int
+    constraints:
+      min: 101
+      max: 999
+      digits: 3
+
+subinfo_mapping:
+  subject_id: 被试编号（3位）
+  Participant Information: 参与者信息
+  registration_failed: 注册失败
+  registration_successful: 注册成功
+  invalid_input: "字段 {field} 输入无效"
+
+
+# === Display / Window =======================================================
+window:
+  size: [1280, 720]
+  units: pix
+  screen: 0
+  bg_color: black
+  fullscreen: false
+  monitor_width_cm: 35.5
+  monitor_distance_cm: 60
+
+
+# === Task ==================================================================
+task:
+  task_name: hand_laterality_judgment
+  save_path: ./outputs/human
+  language: Chinese
+  voice_name: zh-CN-YunyangNeural
+  voice_enabled: false
+  total_blocks: 7
+  total_trials: 210
+  trial_per_block: 30
+  conditions:
+    - practice
+    - test
+  condition_weights: null
+  key_list:
+    - f
+    - j
+    - space
+  left_key: f
+  right_key: j
+  continue_key: space
+  practice_trials: 18
+  test_series_count: 6
+  test_trials_per_series: 32
+  fixation_duration: 2.0
+  response_deadline: 8.0
+  practice_feedback_duration: 0.8
+  iti_min_duration: 0.5
+  iti_max_duration: 1.0
+  seed_mode: same_across_sub
+  overall_seed: 45045
+  delta: 0.0
+
+
+# === Timing =================================================================
+timing:
+  post_delay_ms: 1
+
+
+# === Stimuli ================================================================
+stimuli:
+  fixation:
+    type: text
+    font: SimHei
+    text: "+"
+    color: white
+    height: 48
+    pos: [0, 0]
+
+  hand_back_left:
+    type: image
+    image: assets/hand_back_left.png
+    pos: [0, 0]
+    size: [420, 280]
+    units: pix
+
+  hand_back_right:
+    type: image
+    image: assets/hand_back_right.png
+    pos: [0, 0]
+    size: [420, 280]
+    units: pix
+
+  hand_palm_left:
+    type: image
+    image: assets/hand_palm_left.png
+    pos: [0, 0]
+    size: [420, 280]
+    units: pix
+
+  hand_palm_right:
+    type: image
+    image: assets/hand_palm_right.png
+    pos: [0, 0]
+    size: [420, 280]
+    units: pix
+
+  instruction_text:
+    type: text
+    font: SimHei
+    text: |-
+      你将看到不同角度的手图片。
+      请判断图片中的手是左手还是右手，而不是判断朝向。
+      按 {left_key} 选择左手，按 {right_key} 选择右手。
+
+      先完成 {practice_trials} 次练习，再完成 {test_series_count} 个正式区块。
+      每个正式区块包含 {test_trials_per_series} 次试次。
+
+      准备好后请按空格键开始。
+    color: white
+    height: 28
+    wrapWidth: 1040
+    pos: [0, 0]
+
+  practice_break_text:
+    type: text
+    font: SimHei
+    text: |-
+      练习结束。
+      请按空格键开始正式区块。
+    color: white
+    height: 30
+    wrapWidth: 980
+    pos: [0, 0]
+
+  block_break_text:
+    type: text
+    font: SimHei
+    text: |-
+      正式区块 {block_num}/{total_blocks} 结束。
+
+      本区块正确率：{accuracy:.1%}
+      平均反应时：{mean_rt_ms:.0f} 毫秒
+      漏答次数：{timeout_count}
+
+      按空格键继续。
+    color: white
+    height: 28
+    wrapWidth: 980
+    pos: [0, 0]
+
+  practice_feedback_correct:
+    type: text
+    font: SimHei
+    text: 正确
+    color: green
+    height: 36
+    pos: [0, 0]
+
+  practice_feedback_incorrect:
+    type: text
+    font: SimHei
+    text: 错误
+    color: orange
+    height: 36
+    pos: [0, 0]
+
+  practice_feedback_timeout:
+    type: text
+    font: SimHei
+    text: 超时
+    color: orange
+    height: 36
+    pos: [0, 0]
+
+  good_bye_text:
+    type: text
+    font: SimHei
+    text: |-
+      任务结束。
+
+      总试次：{total_trials}
+      整体正确率：{accuracy:.1%}
+      平均反应时：{mean_rt_ms:.0f} 毫秒
+      漏答次数：{timeout_count}
+
+      按空格键退出。
+    color: white
+    height: 28
+    wrapWidth: 980
+    pos: [0, 0]
+
+
+# === Triggers ===============================================================
+triggers:
+  map:
+    exp_onset: 1
+    exp_end: 2
+    block_onset: 10
+    block_end: 11
+    fixation_onset: 20
+    stimulus_onset: 30
+    response_left: 31
+    response_right: 32
+    response_timeout: 33
+    feedback_correct_onset: 40
+    feedback_incorrect_onset: 41
+    feedback_timeout_onset: 42
+    instruction_onset: 50
+    practice_break_onset: 51
+    block_break_onset: 52
+    good_bye_onset: 53
+    iti_onset: 60
+
+  driver:
+    type: serial_url
+    url: loop://
+    baudrate: 115200
+
+  timing:
+    post_delay_ms: 1
+
+  policy:
+    strict: false

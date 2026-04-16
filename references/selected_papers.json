@@ -1,0 +1,106 @@
+[
+  {
+    "id": "W1967498380",
+    "title": "Aging Affects the Mental Rotation of Left and Right Hands",
+    "authors": [
+      "Arnaud Saimpont",
+      "Thierry Pozzo",
+      "Charalambos Papaxanthis"
+    ],
+    "year": 2009,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0006714",
+    "citation_count": 110,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2146625887",
+    "title": "Posture influences motor imagery: An fMRI study",
+    "authors": [
+      "Floris P. de Lange",
+      "Rick C. Helmich",
+      "Ivan Toni"
+    ],
+    "year": 2006,
+    "journal": "NeuroImage",
+    "doi_or_url": "https://doi.org/10.1016/j.neuroimage.2006.07.017",
+    "citation_count": 294,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2119584730",
+    "title": "The Influence of Hand Posture on Corticospinal Excitability during Motor Imagery: A Transcranial Magnetic Stimulation Study",
+    "authors": [
+      "Cláudia D. Vargas"
+    ],
+    "year": 2004,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhh080",
+    "citation_count": 210,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2141241261",
+    "title": "Mental rotation task of hands: differential influence number of rotational axes",
+    "authors": [
+      "Arjan C. ter Horst",
+      "Rob van Lier",
+      "Bert Steenbergen"
+    ],
+    "year": 2010,
+    "journal": "Experimental Brain Research",
+    "doi_or_url": "https://doi.org/10.1007/s00221-010-2235-1",
+    "citation_count": 127,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1945219858",
+    "title": "Cerebrally Lateralized Mental Representations of Hand Shape and Movement",
+    "authors": [
+      "Lawrence M. Parsons",
+      "John D. E. Gabrieli",
+      "Elizabeth A. Phelps",
+      "Michael S. Gazzaniga"
+    ],
+    "year": 1998,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.18-16-06539.1998",
+    "citation_count": 168,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  }
+]

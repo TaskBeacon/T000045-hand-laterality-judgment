@@ -1,0 +1,2682 @@
+[
+  {
+    "id": "W4255105359",
+    "title": "The Glossary of Prosthodontic Terms",
+    "authors": [
+      "Keith Ferro",
+      "Steven Morgano",
+      "Carl Driscoll",
+      "Martin Freilich",
+      "Albert Guckes",
+      "Kent Knoernschild",
+      "Thomas Mcgarry",
+      "Gary Goldstein",
+      "Charles Goodacre",
+      "Steven Mor- Gano",
+      "Stephen Rosenstiel",
+      "Clifford Vanblarcom"
+    ],
+    "year": 2017,
+    "journal": "Journal of Prosthetic Dentistry",
+    "doi_or_url": "https://doi.org/10.1016/j.prosdent.2016.12.001",
+    "citation_count": 895,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2024221294",
+    "title": "Affective Body Expression Perception and Recognition: A Survey",
+    "authors": [
+      "Andrea Kleinsmith",
+      "Nadia Bianchi\u2010Berthouze"
+    ],
+    "year": 2012,
+    "journal": "IEEE Transactions on Affective Computing",
+    "doi_or_url": "https://doi.org/10.1109/t-affc.2012.16",
+    "citation_count": 593,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2079098529",
+    "title": "Neural Basis of Embodiment: Distinct Contributions of Temporoparietal Junction and Extrastriate Body Area",
+    "authors": [
+      "Shahar Arzy",
+      "Gregor Thut",
+      "Christine M\u00f6hr",
+      "Christoph M. Michel",
+      "Olaf Blanke"
+    ],
+    "year": 2006,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.0745-06.2006",
+    "citation_count": 414,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2105584468",
+    "title": "Seeking a unified framework for cerebellar function and dysfunction: from circuit operations to cognition",
+    "authors": [
+      "Egidio D\u2019Angelo",
+      "Stefano Casali"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Neural Circuits",
+    "doi_or_url": "https://doi.org/10.3389/fncir.2012.00116",
+    "citation_count": 401,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2105453432",
+    "title": "Human thermal sensation and comfort in transient and non-uniform thermal environments",
+    "authors": [
+      "H. Zhang"
+    ],
+    "year": 2003,
+    "journal": "eScholarship (California Digital Library)",
+    "doi_or_url": "https://openalex.org/W2105453432",
+    "citation_count": 394,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2097395674",
+    "title": "Regular, brief mindfulness meditation practice improves electrophysiological markers of attentional control",
+    "authors": [
+      "Adam Moore",
+      "Thomas Gruber",
+      "Jennifer Derose",
+      "Peter Malinowski"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2012.00018",
+    "citation_count": 319,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2146625887",
+    "title": "Posture influences motor imagery: An fMRI study",
+    "authors": [
+      "Floris P. de Lange",
+      "Rick C. Helmich",
+      "Ivan Toni"
+    ],
+    "year": 2006,
+    "journal": "NeuroImage",
+    "doi_or_url": "https://doi.org/10.1016/j.neuroimage.2006.07.017",
+    "citation_count": 294,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3203923637",
+    "title": "Trends in Workplace Wearable Technologies and Connected\u2010Worker Solutions for Next\u2010Generation Occupational Safety, Health, and Productivity",
+    "authors": [
+      "Vishal Patel",
+      "Austin Chesmore",
+      "Christopher Legner",
+      "Santosh Pandey"
+    ],
+    "year": 2021,
+    "journal": "Advanced Intelligent Systems",
+    "doi_or_url": "https://doi.org/10.1002/aisy.202100099",
+    "citation_count": 285,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2144547508",
+    "title": "Brain Mechanisms for Inferring Deceit in the Actions of Others",
+    "authors": [
+      "Julie Gr\u00e8zes",
+      "Chris Frith",
+      "Richard E. Passingham"
+    ],
+    "year": 2004,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.0219-04.2004",
+    "citation_count": 218,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2097383046",
+    "title": "Aesthetic and Emotional Effects of Meter and Rhyme in Poetry",
+    "authors": [
+      "Christian Obermeier",
+      "Winfried Menninghaus",
+      "Martin von Koppenfels",
+      "Tim Raettig",
+      "Maren Schmidt\u2010Kassow",
+      "Sascha Otterbein",
+      "Sonja A. Kotz"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2013.00010",
+    "citation_count": 213,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2119584730",
+    "title": "The Influence of Hand Posture on Corticospinal Excitability during Motor Imagery: A Transcranial Magnetic Stimulation Study",
+    "authors": [
+      "Cl\u00e1udia D. Vargas"
+    ],
+    "year": 2004,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhh080",
+    "citation_count": 210,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2133457160",
+    "title": "Sequences of Abstract Nonbiological Stimuli Share Ventral Premotor Cortex with Action Observation and Imagery",
+    "authors": [
+      "Ricarda I. Schubotz",
+      "D. Yves von Cramon"
+    ],
+    "year": 2004,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.1169-04.2004",
+    "citation_count": 201,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2091550557",
+    "title": "The MPI Facial Expression Database \u2014 A Validated Database of Emotional and Conversational Facial Expressions",
+    "authors": [
+      "K Kaulard",
+      "Douglas W. Cunningham",
+      "HH B\u00fclthoff",
+      "Christian Wallraven"
+    ],
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0032321",
+    "citation_count": 183,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2099069737",
+    "title": "Cognitive sequencing impairment in patients with focal or atrophic cerebellar damage",
+    "authors": [
+      "Maria Leggio",
+      "Anna Maria Tedesco",
+      "Francesca R. Chiricozzi",
+      "Silvia Clausi",
+      "Arturo Orsini",
+      "Marco Molinari"
+    ],
+    "year": 2008,
+    "journal": "Brain",
+    "doi_or_url": "https://doi.org/10.1093/brain/awn040",
+    "citation_count": 175,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2050708294",
+    "title": "Interactions between posterior gamma and frontal alpha/beta oscillations during imagined actions",
+    "authors": [
+      "Ivan Toni"
+    ],
+    "year": 2008,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/neuro.09.007.2008",
+    "citation_count": 175,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1945219858",
+    "title": "Cerebrally Lateralized Mental Representations of Hand Shape and Movement",
+    "authors": [
+      "Lawrence M. Parsons",
+      "John D. E. Gabrieli",
+      "Elizabeth A. Phelps",
+      "Michael S. Gazzaniga"
+    ],
+    "year": 1998,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.18-16-06539.1998",
+    "citation_count": 168,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2025758641",
+    "title": "The influence of head contour and nose angle on the perception of eye-gaze direction",
+    "authors": [
+      "Steve Langton",
+      "Helen Honeyman",
+      "Emma Tessler"
+    ],
+    "year": 2004,
+    "journal": "Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/bf03194970",
+    "citation_count": 166,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2500440871",
+    "title": "Affordances in Psychology, Neuroscience, and Robotics: A Survey",
+    "authors": [
+      "Lorenzo Jamone",
+      "Emre U\u011fur",
+      "Angelo Cangelosi",
+      "Luciano Fadiga",
+      "Alexandre Bernardino",
+      "Justus Piater",
+      "Jos\u00e9 Santos-Victor"
+    ],
+    "year": 2016,
+    "journal": "IEEE Transactions on Cognitive and Developmental Systems",
+    "doi_or_url": "https://doi.org/10.1109/tcds.2016.2594134",
+    "citation_count": 164,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2121203578",
+    "title": "Refinement and initial validation of a multidimensional composite scale for use in assessing acute postoperative pain in cats",
+    "authors": [
+      "Juliana Tabarelli Brondani",
+      "St\u00e9lio Pacca Loureiro Luna",
+      "Carlos Roberto Padovani"
+    ],
+    "year": 2011,
+    "journal": "American Journal of Veterinary Research",
+    "doi_or_url": "https://doi.org/10.2460/ajvr.72.2.174",
+    "citation_count": 152,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2112964034",
+    "title": "Profound Amnesia After Damage to the Medial Temporal Lobe: A Neuroanatomical and Neuropsychological Profile of Patient E. P.",
+    "authors": [
+      "Lisa Stefanacci",
+      "Elizabeth A. Buffalo",
+      "Heike Schmolck",
+      "Larry R. Squire"
+    ],
+    "year": 2000,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.20-18-07024.2000",
+    "citation_count": 149,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2902626600",
+    "title": "The History and Philosophy of Ecological Psychology",
+    "authors": [
+      "Lorena Lobo",
+      "Manuel Heras-Escribano",
+      "David Travieso"
+    ],
+    "year": 2018,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2018.02228",
+    "citation_count": 145,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2039512798",
+    "title": "A cognitive framework for explaining serial processing and sequence execution strategies",
+    "authors": [
+      "Willem B. Verwey",
+      "Charles H. Shea",
+      "David L. Wright"
+    ],
+    "year": 2014,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/s13423-014-0773-4",
+    "citation_count": 144,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2164597876",
+    "title": "Stable and variable affordances are both automatic and flexible",
+    "authors": [
+      "Anna M. Borghi",
+      "Lucia Riggio"
+    ],
+    "year": 2015,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2015.00351",
+    "citation_count": 139,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4251357428",
+    "title": "An fMRI Study of Intra-Individual Functional Topography in the Human Cerebellum",
+    "authors": [
+      "Catherine J. Stoodley",
+      "Eve M. Valera",
+      "Jeremy D. Schmahmann"
+    ],
+    "year": 2010,
+    "journal": "Behavioural Neurology",
+    "doi_or_url": "https://doi.org/10.1155/2010/840942",
+    "citation_count": 138,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3193803884",
+    "title": "Effect of immersive visualization technologies on cognitive load, motivation, usability, and embodiment",
+    "authors": [
+      "Nicolas Wenk",
+      "Joaquin Penalver-Andres",
+      "Karin A. Buetler",
+      "Tobias Nef",
+      "Ren\u00e9 M. M\u00fcri",
+      "Laura Marchal\u2013Crespo"
+    ],
+    "year": 2021,
+    "journal": "Virtual Reality",
+    "doi_or_url": "https://doi.org/10.1007/s10055-021-00565-8",
+    "citation_count": 133,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3204869108",
+    "title": "Reporting Guidelines for Whole-Body Vibration Studies in Humans, Animals and Cell Cultures: A Consensus Statement from an International Group of Experts",
+    "authors": [
+      "Marieke J. G. van Heuvelen",
+      "J\u00f6rn Rittweger",
+      "Stefan Judex",
+      "Borja Sa\u00f1udo",
+      "Ad\u00e9rito Seixas",
+      "Anselm B. M. Fuermaier",
+      "Oliver Tucha",
+      "Csaba Nyakas",
+      "Pedro J. Mar\u00edn",
+      "Redha Ta\u0131\u0308ar",
+      "Christina Stark",
+      "Eckhard Sch\u00f6enau"
+    ],
+    "year": 2021,
+    "journal": "Biology",
+    "doi_or_url": "https://doi.org/10.3390/biology10100965",
+    "citation_count": 133,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2892616908",
+    "title": "Consensus paper: Decoding the Contributions of the Cerebellum as a Time Machine. From Neurons to Clinical Applications",
+    "authors": [
+      "Martin Bare\u0161",
+      "Richard Apps",
+      "Laura Avanzino",
+      "Assaf Breska",
+      "Egidio D\u2019Angelo",
+      "Pavel Filip",
+      "Marcus Gerwig",
+      "Richard B. Ivry",
+      "Charlotte L. Lawrenson",
+      "Elan D. Louis",
+      "Nicholas A. Lusk",
+      "Mario Manto"
+    ],
+    "year": 2018,
+    "journal": "The Cerebellum",
+    "doi_or_url": "https://doi.org/10.1007/s12311-018-0979-5",
+    "citation_count": 127,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2141241261",
+    "title": "Mental rotation task of hands: differential influence number of rotational axes",
+    "authors": [
+      "Arjan C. ter Horst",
+      "Rob van Lier",
+      "Bert Steenbergen"
+    ],
+    "year": 2010,
+    "journal": "Experimental Brain Research",
+    "doi_or_url": "https://doi.org/10.1007/s00221-010-2235-1",
+    "citation_count": 127,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2252436768",
+    "title": "Effects of Stimulus Type and Strategy on Mental Rotation Network: An Activation Likelihood Estimation Meta-Analysis",
+    "authors": [
+      "Barbara Tomasino",
+      "Michele Gremese"
+    ],
+    "year": 2016,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2015.00693",
+    "citation_count": 124,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2155297832",
+    "title": "The Body of Evidence: What Can Neuroscience Tell Us about Embodied Semantics?",
+    "authors": [
+      "Olaf Hauk",
+      "Nadja Tschentscher"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2013.00050",
+    "citation_count": 114,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2041294387",
+    "title": "Cortical responses to self and others",
+    "authors": [
+      "Amra Hodzic",
+      "Lars Muckli",
+      "Wolf Singer",
+      "Aglaja Stirn"
+    ],
+    "year": 2008,
+    "journal": "Human Brain Mapping",
+    "doi_or_url": "https://doi.org/10.1002/hbm.20558",
+    "citation_count": 113,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3155411455",
+    "title": "The Forward Model: A Unifying Theory for the Role of the Cerebellum in Motor Control and Sense of Agency",
+    "authors": [
+      "Quentin Welniarz",
+      "Yulia Worbe",
+      "C\u00e9cile Gall\u00e9a"
+    ],
+    "year": 2021,
+    "journal": "Frontiers in Systems Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnsys.2021.644059",
+    "citation_count": 112,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2129490223",
+    "title": "Homing in on consciousness in the nervous system: An action-based synthesis",
+    "authors": [
+      "Ezequiel Morsella",
+      "Christine A. Godwin",
+      "Tiffany K. Jantz",
+      "Stephen Krieger",
+      "Adam Gazzaley"
+    ],
+    "year": 2015,
+    "journal": "Behavioral and Brain Sciences",
+    "doi_or_url": "https://doi.org/10.1017/s0140525x15000643",
+    "citation_count": 111,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2766181796",
+    "title": "Short parietal lobe connections of the human and monkey brain",
+    "authors": [
+      "Marco Catani",
+      "Robertsson Naianna",
+      "Ahmad Beyh",
+      "Vincent Huynh",
+      "Francisco De Santiago Requejo",
+      "Henrietta Howells",
+      "Rachel Barrett",
+      "Marco Aiello",
+      "Carlo Cavaliere",
+      "Tim B. Dyrby",
+      "Kristine Krug",
+      "Maurice Ptito"
+    ],
+    "year": 2017,
+    "journal": "Cortex",
+    "doi_or_url": "https://doi.org/10.1016/j.cortex.2017.10.022",
+    "citation_count": 111,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1967498380",
+    "title": "Aging Affects the Mental Rotation of Left and Right Hands",
+    "authors": [
+      "Arnaud Saimpont",
+      "Thierry Pozzo",
+      "Charalambos Papaxanthis"
+    ],
+    "year": 2009,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0006714",
+    "citation_count": 110,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2030959075",
+    "title": "Repetitive TMS Suggests a Role of the Human Dorsal Premotor Cortex in Action Prediction",
+    "authors": [
+      "Waltraud Stadler",
+      "Derek V. M. Ott",
+      "Anne Springer",
+      "Ricarda I. Schubotz",
+      "Simone Sch\u00fctz\u2010Bosbach",
+      "Wolfgang Prinz"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2012.00020",
+    "citation_count": 107,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4225152044",
+    "title": "A survey of challenges and methods for Quality of Experience assessment of interactive VR applications",
+    "authors": [
+      "Sara Vlahovi\u0107",
+      "Mirko Su\u017enjevi\u0107",
+      "Lea Skorin\u2010Kapov"
+    ],
+    "year": 2022,
+    "journal": "Journal on Multimodal User Interfaces",
+    "doi_or_url": "https://doi.org/10.1007/s12193-022-00388-0",
+    "citation_count": 99,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2135520533",
+    "title": "Motor Adaptation Scaled by the Difficulty of a Secondary Cognitive Task",
+    "authors": [
+      "Jordan A. Taylor",
+      "Kurt A. Thoroughman"
+    ],
+    "year": 2008,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0002485",
+    "citation_count": 99,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2124651194",
+    "title": "Visual mental imagery during caloric vestibular stimulation",
+    "authors": [
+      "Fred W. Mast",
+      "Daniel M. Merfeld",
+      "Stephen M. Kosslyn"
+    ],
+    "year": 2005,
+    "journal": "Neuropsychologia",
+    "doi_or_url": "https://doi.org/10.1016/j.neuropsychologia.2005.04.005",
+    "citation_count": 97,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2143475077",
+    "title": "The efference cascade, consciousness, and its self: naturalizing the first person pivot of action control",
+    "authors": [
+      "Bj\u00f8rn Merker"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2013.00501",
+    "citation_count": 94,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3009220720",
+    "title": "The Right Temporoparietal Junction Is Causally Associated with Embodied Perspective-taking",
+    "authors": [
+      "Andrew Martin",
+      "Klaus Kessler",
+      "Shena Cooke",
+      "Jasmine Huang",
+      "Marcus Meinzer"
+    ],
+    "year": 2020,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.2637-19.2020",
+    "citation_count": 94,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2047876020",
+    "title": "Visuomotor Control of Human Adaptive Locomotion: Understanding the Anticipatory Nature",
+    "authors": [
+      "Takahiro Higuchi"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2013.00277",
+    "citation_count": 92,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2100280548",
+    "title": "Cerebellar Engagement in an Action Observation Network",
+    "authors": [
+      "Arseny A. Sokolov",
+      "Alireza Gharabaghi",
+      "Marcos Tatagiba",
+      "Marina A. Pavlova"
+    ],
+    "year": 2009,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhp117",
+    "citation_count": 89,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2333532491",
+    "title": "Definition of an Effective Oral Appliance for the Treatment of Obstructive Sleep Apnea and Snoring: A Report of the American Academy of Dental Sleep Medicine",
+    "authors": [
+      "Steven C. Scherr",
+      "Leslie C. Dort",
+      "Fernanda R. Almeida",
+      "Kathleen M. Bennett",
+      "Norman T. Blumenstock",
+      "B. Gail Demko",
+      "Gregory Essick",
+      "Sheri G. Katz",
+      "Paul M. McLornan",
+      "Katherine S. Phillips",
+      "Ronald S. Prehn",
+      "Robert R. Rogers"
+    ],
+    "year": 2014,
+    "journal": "Journal of Dental Sleep Medicine",
+    "doi_or_url": "https://doi.org/10.15331/jdsm.3738",
+    "citation_count": 88,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1964989911",
+    "title": "TEST: A Tropic, Embodied, and Situated Theory of Cognition",
+    "authors": [
+      "Andriy Myachykov",
+      "Christoph Scheepers",
+      "Martin H. Fischer",
+      "Klaus Kessler"
+    ],
+    "year": 2013,
+    "journal": "Topics in Cognitive Science",
+    "doi_or_url": "https://doi.org/10.1111/tops.12024",
+    "citation_count": 85,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2116373161",
+    "title": "Compromised motor planning and Motor Imagery in right Hemiparetic Cerebral Palsy",
+    "authors": [
+      "C\u00e9line Craj\u00e9",
+      "Michiel van Elk",
+      "Manuela E. G. V. Beeren",
+      "Hein T. van Schie",
+      "Harold Bekkering",
+      "Bert Steenbergen"
+    ],
+    "year": 2010,
+    "journal": "Research in Developmental Disabilities",
+    "doi_or_url": "https://doi.org/10.1016/j.ridd.2010.07.010",
+    "citation_count": 84,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2897734639",
+    "title": "Quantification of nonverbal synchrony using linear time series analysis methods: Lack of convergent validity and evidence for facets of synchrony",
+    "authors": [
+      "D\u00e9sir\u00e9e Schoenherr",
+      "Jane Paulick",
+      "Susanne Worrack",
+      "Bernhard Strau\u00df",
+      "Julian Rubel",
+      "Brian Schwartz",
+      "Anne\u2010Katharina Deisenhofer",
+      "Wolfgang Lutz",
+      "Ulrich Stangier",
+      "Uwe Altmann"
+    ],
+    "year": 2018,
+    "journal": "Behavior Research Methods",
+    "doi_or_url": "https://doi.org/10.3758/s13428-018-1139-z",
+    "citation_count": 82,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2158058942",
+    "title": "Compensatory Activity in the Extrastriate Body Area of Parkinson's Disease Patients",
+    "authors": [
+      "Bart F.L. van Nuenen",
+      "Rick C. Helmich",
+      "A. G. Buenen",
+      "Bart P.C. van de Warrenburg",
+      "B. R. Bloem",
+      "Ivan Toni"
+    ],
+    "year": 2012,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.0335-12.2012",
+    "citation_count": 82,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2163899192",
+    "title": "Increased Dependence of Action Selection on Recent Motor History in Parkinson's Disease",
+    "authors": [
+      "Rick C. Helmich",
+      "Esther Aarts",
+      "Floris P. de Lange",
+      "Bastiaan R. Bloem",
+      "Ivan Toni"
+    ],
+    "year": 2009,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.0704-09.2009",
+    "citation_count": 81,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2623202547",
+    "title": "Non-pharmacological interventions for managing dental anxiety in children",
+    "authors": [
+      "Robert P. Anthonappa",
+      "Paul Ashley",
+      "Debbie Bonetti",
+      "Guido Lombardo",
+      "Philip Riley"
+    ],
+    "year": 2017,
+    "journal": "Cochrane Database of Systematic Reviews",
+    "doi_or_url": "https://doi.org/10.1002/14651858.cd012676",
+    "citation_count": 80,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4391482106",
+    "title": "Nociceptive, neuropathic, or nociplastic low back pain? The low back pain phenotyping (BACPAP) consortium's international and multidisciplinary consensus recommendations",
+    "authors": [
+      "Jo Nijs",
+      "Eva Kosek",
+      "Alessandro Chiarotto",
+      "Chad Cook",
+      "Lieven Danneels",
+      "C\u00e9sar Fern\u00e1ndez\u2010de\u2010las\u2010Pe\u00f1as",
+      "Paul W. Hodges",
+      "Bart W. Koes",
+      "Adriaan Louw",
+      "Raymond Ostelo",
+      "G.G.M. Scholten-Peeters",
+      "Michele Sterling"
+    ],
+    "year": 2024,
+    "journal": "The Lancet Rheumatology",
+    "doi_or_url": "https://doi.org/10.1016/s2665-9913(23)00324-7",
+    "citation_count": 79,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2598960917",
+    "title": "Teaching students to think spatially through embodied actions: Design principles for learning environments in science, technology, engineering, and mathematics",
+    "authors": [
+      "Dane DeSutter",
+      "Mike Stieff"
+    ],
+    "year": 2017,
+    "journal": "Cognitive Research Principles and Implications",
+    "doi_or_url": "https://doi.org/10.1186/s41235-016-0039-y",
+    "citation_count": 77,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2152385245",
+    "title": "Improvement in Automatic Postural Coordination Following Alexander Technique Lessons in a Person With Low Back Pain",
+    "authors": [
+      "Timothy W. Cacciatore",
+      "Fay B. Horak",
+      "Sharon M. Henry"
+    ],
+    "year": 2005,
+    "journal": "Physical Therapy",
+    "doi_or_url": "https://doi.org/10.1093/ptj/85.6.565",
+    "citation_count": 77,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2070431854",
+    "title": "A neuroscientific account of how vestibular disorders impair bodily self-consciousness",
+    "authors": [
+      "Christophe Lopez"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Integrative Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnint.2013.00091",
+    "citation_count": 76,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2732058450",
+    "title": "Canine emotions as seen through human social cognition",
+    "authors": [
+      "Miiamaaria V. Kujala"
+    ],
+    "year": 2017,
+    "journal": "Animal Sentience",
+    "doi_or_url": "https://doi.org/10.51291/2377-7478.1114",
+    "citation_count": 75,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4377861913",
+    "title": "Unlocking the Emotional World of Visual Media: An Overview of the Science, Research, and Impact of Understanding Emotion",
+    "authors": [
+      "James Z. Wang",
+      "Sicheng Zhao",
+      "Chenyan Wu",
+      "Reginald B. Adams",
+      "Michelle G. Newman",
+      "Tal Shafir",
+      "Rachelle Tsachor"
+    ],
+    "year": 2023,
+    "journal": "Proceedings of the IEEE",
+    "doi_or_url": "https://doi.org/10.1109/jproc.2023.3273517",
+    "citation_count": 75,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2944532370",
+    "title": "Cortical modulation of pupillary function: systematic review",
+    "authors": [
+      "Costanza Peinkhofer",
+      "Gitte M. Knudsen",
+      "Rita Moretti",
+      "Daniel Kondziella"
+    ],
+    "year": 2019,
+    "journal": "PeerJ",
+    "doi_or_url": "https://doi.org/10.7717/peerj.6882",
+    "citation_count": 75,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2122525352",
+    "title": "The Neural Correlates of Human Working Memory for Haptically Explored Object Orientations",
+    "authors": [
+      "Amanda Kaas",
+      "Hanneke I. Van Mier",
+      "Rainer Goebel"
+    ],
+    "year": 2006,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhl074",
+    "citation_count": 75,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3087268111",
+    "title": "Telemedicine During COVID-19 and Beyond:A Practical Guide and Best PracticesMultidisciplinary Approach for the Orthopedicand Neurologic Pain Physical Examination",
+    "authors": [
+      "Sandeep Yerra"
+    ],
+    "year": 2020,
+    "journal": "Pain Physician",
+    "doi_or_url": "https://doi.org/10.36076/ppj.2020/23/s205",
+    "citation_count": 73,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4389340198",
+    "title": "The sense of embodiment in Virtual Reality and its assessment methods",
+    "authors": [
+      "Martin Guy",
+      "Jean\u2010Marie Normand",
+      "Camille Jeunet-Kelway",
+      "Guillaume Moreau"
+    ],
+    "year": 2023,
+    "journal": "Frontiers in Virtual Reality",
+    "doi_or_url": "https://doi.org/10.3389/frvir.2023.1141683",
+    "citation_count": 70,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3119485017",
+    "title": "Towards Strong Inference in Research on Embodiment \u2013 Possibilities and Limitations of Causal Paradigms",
+    "authors": [
+      "Markus Ostarek",
+      "Roberto Bottini"
+    ],
+    "year": 2021,
+    "journal": "Journal of Cognition",
+    "doi_or_url": "https://doi.org/10.5334/joc.139",
+    "citation_count": 69,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2030502238",
+    "title": "My Hand or Yours? Markedly Different Sensitivity to Egocentric and Allocentric Views in the Hand Laterality Task",
+    "authors": [
+      "Nuala Brady",
+      "Corrina Maguinness",
+      "\u00c1ine N\u00ed Choisdealbha"
+    ],
+    "year": 2011,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0023316",
+    "citation_count": 68,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2139159664",
+    "title": "Prismatic Adaptation Changes Visuospatial Representation in the Inferior Parietal Lobule",
+    "authors": [
+      "Sonia Crottaz\u2010Herbette",
+      "Eleonora Fornari",
+      "St\u00e9phanie Clarke"
+    ],
+    "year": 2014,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.3184-13.2014",
+    "citation_count": 67,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1998602784",
+    "title": "Body Context and Posture Affect Mental Imagery of Hands",
+    "authors": [
+      "Silvio Ionta",
+      "David Perruchoud",
+      "Bogdan Draganski",
+      "Olaf Blanke"
+    ],
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0034382",
+    "citation_count": 66,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2042196466",
+    "title": "Shedding some light on catching in the dark: Perceptual mechanisms for catching fly balls.",
+    "authors": [
+      "Ra\u00f4ul R. D. Oudejans",
+      "Claire F. Michaels",
+      "Frank C. Bakker",
+      "Keith Davids"
+    ],
+    "year": 1999,
+    "journal": "Journal of Experimental Psychology Human Perception & Performance",
+    "doi_or_url": "https://doi.org/10.1037/0096-1523.25.2.531",
+    "citation_count": 65,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2971739705",
+    "title": "&lt;p&gt;Temporomandibular disorders: improving outcomes using a multidisciplinary approach&lt;/p&gt;",
+    "authors": [
+      "Miriam Garrig\u00f3s-Pedr\u00f3n",
+      "Ignacio Elizagaray-Garc\u00eda",
+      "Adelaida A Dom\u00ednguez-Gordillo",
+      "Jos\u00e9 Luis Del-Castillo-Pardo-de-Vera",
+      "Alfonso Gil\u2010Mart\u00ednez"
+    ],
+    "year": 2019,
+    "journal": "Journal of Multidisciplinary Healthcare",
+    "doi_or_url": "https://doi.org/10.2147/jmdh.s178507",
+    "citation_count": 65,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2020248742",
+    "title": "Heading and path information from retinal flow in naturalistic environments",
+    "authors": [
+      "James E. Cutting",
+      "Peter M. Vishton",
+      "Michelangelo Fl\u00fcckiger",
+      "Bernard Baumberger",
+      "John D. Gerndt"
+    ],
+    "year": 1997,
+    "journal": "Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/bf03211909",
+    "citation_count": 65,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2059838889",
+    "title": "Solving a mental rotation task in congenital hemiparesis: Motor imagery versus visual imagery",
+    "authors": [
+      "Bert Steenbergen",
+      "Marlies van Nimwegen",
+      "C\u00e9line Craj\u00e9"
+    ],
+    "year": 2007,
+    "journal": "Neuropsychologia",
+    "doi_or_url": "https://doi.org/10.1016/j.neuropsychologia.2007.07.002",
+    "citation_count": 65,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2266852723",
+    "title": "Spinal cord injury affects the interplay between visual and sensorimotor representations of the body",
+    "authors": [
+      "Silvio Ionta",
+      "Michael Villiger",
+      "Catherine R. Jutzeler",
+      "Patrick Freund",
+      "Armin Curt",
+      "Roger Gassert"
+    ],
+    "year": 2016,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/srep20144",
+    "citation_count": 65,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2147146631",
+    "title": "Where is a Nose with Respect to a Foot? The Left Posterior Parietal Cortex Processes Spatial Relationships among Body Parts",
+    "authors": [
+      "Corrado Corradi\u2010Dell\u2019Acqua",
+      "Maike D. Hesse",
+      "Raffaella I. Rumiati",
+      "Gereon R. Fink"
+    ],
+    "year": 2008,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhn046",
+    "citation_count": 64,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2152534121",
+    "title": "Vestibular modulation of spatial perception",
+    "authors": [
+      "Elisa Raffaella Ferr\u00e8",
+      "Matthew R. Longo",
+      "Federico Fiori",
+      "Patrick Haggard"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2013.00660",
+    "citation_count": 64,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2439382524",
+    "title": "The Cognitive Side of M1",
+    "authors": [
+      "Barbara Tomasino",
+      "Michele Gremese"
+    ],
+    "year": 2016,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2016.00298",
+    "citation_count": 64,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2139375780",
+    "title": "Slant perception in near space is categorically biased: Evidence for a vertical tendency",
+    "authors": [
+      "Frank H. Durgin",
+      "Zexu Li",
+      "Alen Hajnal"
+    ],
+    "year": 2010,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/app.72.7.1875",
+    "citation_count": 64,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2047603099",
+    "title": "Motor Simulation and the Bodily Self",
+    "authors": [
+      "Francesca Ferri",
+      "Francesca Frassinetti",
+      "Marcello Costantini",
+      "Vittorio Gallese"
+    ],
+    "year": 2011,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0017927",
+    "citation_count": 64,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2105717150",
+    "title": "Move it to improve it (Mitii): study protocol of a randomised controlled trial of a novel web-based multimodal training program for children and adolescents with cerebral palsy",
+    "authors": [
+      "Roslyn N. Boyd",
+      "Louise Mitchell",
+      "Sarah James",
+      "Jenny Ziviani",
+      "Leanne Sakzewski",
+      "Anthony C Smith",
+      "Stephen Rose",
+      "Ross Cunnington",
+      "Koa Whittingham",
+      "Robert S. Ware",
+      "Tracy Comans",
+      "Paul Scuffham"
+    ],
+    "year": 2013,
+    "journal": "BMJ Open",
+    "doi_or_url": "https://doi.org/10.1136/bmjopen-2013-002853",
+    "citation_count": 63,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2781982755",
+    "title": "Visually-Driven Maps in Area 3b",
+    "authors": [
+      "Esther Kuehn",
+      "Patrick Haggard",
+      "Arno Villringer",
+      "Burkhard Pleger",
+      "Martin I. Sereno"
+    ],
+    "year": 2018,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.0491-17.2017",
+    "citation_count": 61,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2099259699",
+    "title": "Objects tell us what action we can expect: dissociating brain areas for retrieval and exploitation of action knowledge during action observation in fMRI",
+    "authors": [
+      "Ricarda I. Schubotz",
+      "Moritz F. Wurm",
+      "Marco K. Wittmann",
+      "D. Yves von Cramon"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2014.00636",
+    "citation_count": 60,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4280543562",
+    "title": "Modulation of biological motion perception in humans by gravity",
+    "authors": [
+      "Ying Wang",
+      "Xue Zhang",
+      "Chunhui Wang",
+      "Weifen Huang",
+      "Qian Xu",
+      "Dong Liu",
+      "Wen Zhou",
+      "Shanguang Chen",
+      "Yi Jiang"
+    ],
+    "year": 2022,
+    "journal": "Nature Communications",
+    "doi_or_url": "https://doi.org/10.1038/s41467-022-30347-y",
+    "citation_count": 58,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2125399520",
+    "title": "Dorsal stream activation during retrieval of object size and shape",
+    "authors": [
+      "Robyn T. Oliver",
+      "Sharon L. Thompson\u2010Schill"
+    ],
+    "year": 2003,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/cabn.3.4.309",
+    "citation_count": 57,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2808931004",
+    "title": "Storytelling Is Intrinsically Mentalistic: A Functional Magnetic Resonance Imaging Study of Narrative Production across Modalities",
+    "authors": [
+      "Ye Yuan",
+      "Judy Major-Girardin",
+      "Steven Brown"
+    ],
+    "year": 2018,
+    "journal": "Journal of Cognitive Neuroscience",
+    "doi_or_url": "https://doi.org/10.1162/jocn_a_01294",
+    "citation_count": 57,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2537662091",
+    "title": "Non-hierarchical Influence of Visual Form, Touch, and Position Cues on Embodiment, Agency, and Presence in Virtual Reality",
+    "authors": [
+      "Stephen C. Pritchard",
+      "Regine Zopf",
+      "Vince Polito",
+      "David M. Kaplan",
+      "Mark Williams"
+    ],
+    "year": 2016,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2016.01649",
+    "citation_count": 56,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2037860326",
+    "title": "Embodied mental rotation: a special link between egocentric transformation and the bodily self",
+    "authors": [
+      "Sandra Kaltner",
+      "Bernhard E. Riecke",
+      "Petra Jansen"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2014.00505",
+    "citation_count": 56,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2147284098",
+    "title": "An exploratory fNIRS study with immersive virtual reality: a new method for technical implementation",
+    "authors": [
+      "Bruno Seraglia",
+      "Luciano Gamberini",
+      "Konstantinos Priftis",
+      "Pietro Scatturin",
+      "Massimiliano Martinelli",
+      "Simone Cutini"
+    ],
+    "year": 2011,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2011.00176",
+    "citation_count": 54,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2023061964",
+    "title": "Giving a helping hand: effects of joint attention on mental rotation of body parts",
+    "authors": [
+      "Anne B\u00f6ckler",
+      "G\u00fcnther Knoblich",
+      "Natalie Sebanz"
+    ],
+    "year": 2011,
+    "journal": "Experimental Brain Research",
+    "doi_or_url": "https://doi.org/10.1007/s00221-011-2625-z",
+    "citation_count": 53,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2008942693",
+    "title": "Contribution of the primary motor cortex to motor imagery: A subthreshold TMS study",
+    "authors": [
+      "Barbara Pelgrims",
+      "Nicolas Michaux",
+      "Etienne Olivier",
+      "Micha\u00ebl Andres"
+    ],
+    "year": 2010,
+    "journal": "Human Brain Mapping",
+    "doi_or_url": "https://doi.org/10.1002/hbm.21121",
+    "citation_count": 53,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3135728593",
+    "title": "An Introductory Tutorial on Brain\u2013Computer Interfaces and Their Applications",
+    "authors": [
+      "Andrea Bonci",
+      "Simone Fiori",
+      "Hiroshi Higashi",
+      "Toshihisa Tanaka",
+      "Federica Verdini"
+    ],
+    "year": 2021,
+    "journal": "Electronics",
+    "doi_or_url": "https://doi.org/10.3390/electronics10050560",
+    "citation_count": 53,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2159507230",
+    "title": "Effect of biomechanical constraints in the hand laterality judgment task: where does it come from?",
+    "authors": [
+      "Gilles Vannuscorps",
+      "Agnesa Pillon",
+      "Micha\u00ebl Andres"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2012.00299",
+    "citation_count": 53,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2051897112",
+    "title": "\u201cTo see or not to see: that is the question.\u201d The \u201cProtection-Against-Schizophrenia\u201d (PaSZ) model: evidence from congenital blindness and visuo-cognitive aberrations",
+    "authors": [
+      "Steffen Landgraf",
+      "Michael Osterheider"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2013.00352",
+    "citation_count": 53,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2330976489",
+    "title": "The Link between Sleep Bruxism, Sleep Disordered Breathing and Temporomandibular Disorders: An Evidence-based Review",
+    "authors": [
+      "Ramesh Balasubramaniam",
+      "Gary D. Klasser",
+      "Peter A. Cistulli",
+      "Gilles Lavigne"
+    ],
+    "year": 2014,
+    "journal": "Journal of Dental Sleep Medicine",
+    "doi_or_url": "https://doi.org/10.15331/jdsm.3736",
+    "citation_count": 52,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2404637470",
+    "title": "Phantom limb perception interferes with motor imagery after unilateral upper-limb amputation",
+    "authors": [
+      "Yuanyuan Lyu",
+      "Xiaoli Guo",
+      "Robin Bekrater\u2010Bodmann",
+      "Herta Flor",
+      "Shanbao Tong"
+    ],
+    "year": 2016,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/srep21100",
+    "citation_count": 52,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1970283682",
+    "title": "Appraisal of Space Words and Allocation of Emotion Words in Bodily Space",
+    "authors": [
+      "Fernando Marmolejo\u2010Ramos",
+      "Mar\u00eda Rosa Elos\u00faa de Juan",
+      "Yuki Yamada",
+      "Nicholas Francis Hamm",
+      "Kimihiro Noguchi"
+    ],
+    "year": 2013,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0081688",
+    "citation_count": 52,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2031338443",
+    "title": "Examining the role of the temporo-parietal network in memory, imagery, and viewpoint transformations",
+    "authors": [
+      "Kiret Dhindsa",
+      "Vladislav Drobinin",
+      "John A. King",
+      "Geoffrey B. Hall",
+      "Neil Burgess",
+      "Suzanna Becker"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2014.00709",
+    "citation_count": 51,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2077704452",
+    "title": "Perceiving action boundaries: Learning effects in perceiving maximum jumping-reach affordances",
+    "authors": [
+      "Ver\u00f3nica C. Ramenzoni",
+      "Tehran J. Davis",
+      "Michael A. Riley",
+      "Kevin Shockley"
+    ],
+    "year": 2010,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/app.72.4.1110",
+    "citation_count": 51,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2030769798",
+    "title": "External and body-centered frames of reference in spatial memory: Evidence from touch",
+    "authors": [
+      "Susanna Millar",
+      "Zainab Al\u2010Attar"
+    ],
+    "year": 2004,
+    "journal": "Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/bf03194860",
+    "citation_count": 50,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2120875536",
+    "title": "Exploring Empathic Space: Correlates of Perspective Transformation Ability and Biases in Spatial Attention",
+    "authors": [
+      "Katharine N. Thakkar",
+      "Peter Brugger",
+      "Sohee Park"
+    ],
+    "year": 2009,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0005864",
+    "citation_count": 50,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1982467163",
+    "title": "Shared action spaces: a basis function framework for social re-calibration of sensorimotor representations supporting joint action",
+    "authors": [
+      "Giovanni Pezzulo",
+      "Pierpaolo Iodice",
+      "Stefano Ferraina",
+      "Klaus Kessler"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2013.00800",
+    "citation_count": 50,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2498642659",
+    "title": "Riding performance on a conventional bicycle and a pedelec in low speed exercises: Objective and subjective evaluation of middle-aged and older persons",
+    "authors": [
+      "N. Kov\u00e1csov\u00e1",
+      "Joost de Winter",
+      "A. L. Schwab",
+      "Michiel Christoph",
+      "Divera Twisk",
+      "Marjan Hagenzieker"
+    ],
+    "year": 2016,
+    "journal": "Transportation Research Part F Traffic Psychology and Behaviour",
+    "doi_or_url": "https://doi.org/10.1016/j.trf.2016.06.018",
+    "citation_count": 49,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1971889400",
+    "title": "Neural Coding of Cooperative vs. Affective Human Interactions: 150 ms to Code the Action's Purpose",
+    "authors": [
+      "Alice Mado Proverbio",
+      "Federica Riva",
+      "Laura Paganelli",
+      "Stefano F. Cappa",
+      "Nicola Canessa",
+      "Daniela Perani",
+      "Alberto Zani"
+    ],
+    "year": 2011,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0022026",
+    "citation_count": 49,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2125358133",
+    "title": "Different mental rotation strategies reflected in the rotation related negativity",
+    "authors": [
+      "Arjan C. ter Horst",
+      "M.L.A. Jongsma",
+      "Lieneke Janssen",
+      "Rob van Lier",
+      "Bert Steenbergen"
+    ],
+    "year": 2011,
+    "journal": "Psychophysiology",
+    "doi_or_url": "https://doi.org/10.1111/j.1469-8986.2011.01322.x",
+    "citation_count": 49,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2143446254",
+    "title": "Neural Substrates of Visual Spatial Coding and Visual Feedback Control for Hand Movements in Allocentric and Target-Directed Tasks",
+    "authors": [
+      "Lore Thaler",
+      "Melvyn A. Goodale"
+    ],
+    "year": 2011,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2011.00092",
+    "citation_count": 49,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2752365483",
+    "title": "Seeing virtual while acting real: Visual display and strategy effects on the time and precision of eye-hand coordination",
+    "authors": [
+      "Anil Ufuk Batmaz",
+      "Michel de Mathelin",
+      "Birgitta Dresp"
+    ],
+    "year": 2017,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0183789",
+    "citation_count": 49,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2018901697",
+    "title": "Spatiotemporal Tuning of the Facilitation of Biological Motion Perception by Concurrent Motor Execution",
+    "authors": [
+      "Andrea Christensen",
+      "Winfried Ilg",
+      "Martin A. Giese"
+    ],
+    "year": 2011,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.4277-10.2011",
+    "citation_count": 49,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2041026578",
+    "title": "Unimanual SNARC Effect: Hand Matters",
+    "authors": [
+      "Marianna Riello",
+      "Elena Rusconi"
+    ],
+    "year": 2011,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2011.00372",
+    "citation_count": 48,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2139649792",
+    "title": "A Cognitive Neuroscience View of Schizophrenic Symptoms: Abnormal Activation of a System for Social Perception and Communication",
+    "authors": [
+      "Cynthia G. Wible",
+      "Alexander P. Preus",
+      "Ryuichiro Hashimoto"
+    ],
+    "year": 2008,
+    "journal": "Brain Imaging and Behavior",
+    "doi_or_url": "https://doi.org/10.1007/s11682-008-9052-1",
+    "citation_count": 48,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2429585686",
+    "title": "A Lifespan Perspective on Embodied Cognition",
+    "authors": [
+      "Jonna Loeffler",
+      "Markus Raab",
+      "Rouwen Ca\u00f1al\u2010Bruland"
+    ],
+    "year": 2016,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2016.00845",
+    "citation_count": 48,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2115305566",
+    "title": "Neural substrates of interpreting actions and emotions from body postures",
+    "authors": [
+      "Rajesh K. Kana",
+      "Brittany G. Travers"
+    ],
+    "year": 2011,
+    "journal": "Social Cognitive and Affective Neuroscience",
+    "doi_or_url": "https://doi.org/10.1093/scan/nsr022",
+    "citation_count": 47,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2103174792",
+    "title": "Left occipitotemporal cortex contributes to the discrimination of tool-associated hand actions: fMRI and TMS evidence",
+    "authors": [
+      "Francesca Perini",
+      "Alfonso Caramazza",
+      "Marius V. Peelen"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2014.00591",
+    "citation_count": 47,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2257284138",
+    "title": "Action planning and position sense in children with Developmental Coordination Disorder",
+    "authors": [
+      "Imke L. J. Adams",
+      "Gillian Ferguson",
+      "Jessica M. Lust",
+      "Bert Steenbergen",
+      "Bouwien Smits\u2010Engelsman"
+    ],
+    "year": 2016,
+    "journal": "Human Movement Science",
+    "doi_or_url": "https://doi.org/10.1016/j.humov.2016.01.006",
+    "citation_count": 47,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2736430264",
+    "title": "Adaptive Gaze Strategies for Locomotion with Constricted Visual Field",
+    "authors": [
+      "Colas Authi\u00e9",
+      "Alain Berthoz",
+      "Jos\u00e9\u2010Alain Sahel",
+      "Avinoam B. Safran"
+    ],
+    "year": 2017,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2017.00387",
+    "citation_count": 47,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2147352444",
+    "title": "The effects of the Mulligan Sustained Natural Apophyseal Glide (SNAG) mobilisation in the lumbar flexion range of asymptomatic subjects as measured by the Zebris CMS20 3-D motion analysis system",
+    "authors": [
+      "Maria Moutzouri",
+      "Evdokia Billis",
+      "\u039d\u03b9\u03ba\u03cc\u03bb\u03b1\u03bf\u03c2 \u03a3\u03c4\u03c1\u03b9\u03bc\u03c0\u03ac\u03ba\u03bf\u03c2",
+      "Polixeni Kottika",
+      "Jacqueline Oldham"
+    ],
+    "year": 2008,
+    "journal": "BMC Musculoskeletal Disorders",
+    "doi_or_url": "https://doi.org/10.1186/1471-2474-9-131",
+    "citation_count": 45,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2955693992",
+    "title": "Peculiarities of Functional Connectivity\u2014including Cross-Modal Patterns\u2014in Professional Karate Athletes: Correlations with Cognitive and Motor Performances",
+    "authors": [
+      "Beatrice Berti",
+      "Davide Momi",
+      "Giulia Sprugnoli",
+      "Francesco Neri",
+      "Marco Bonifazi",
+      "Alessandro Rossi",
+      "M. Muscettola",
+      "Roberto Benocci",
+      "Emiliano Santarnecchi",
+      "S\u00edmone Rossi"
+    ],
+    "year": 2019,
+    "journal": "Neural Plasticity",
+    "doi_or_url": "https://doi.org/10.1155/2019/6807978",
+    "citation_count": 45,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2044009765",
+    "title": "Measurement of instantaneous perceived self-motion using continuous pointing",
+    "authors": [
+      "Joshua H. Siegle",
+      "Jennifer L. Campos",
+      "Betty J. Mohler",
+      "Jack M. Loomis",
+      "HH B\u00fclthoff"
+    ],
+    "year": 2009,
+    "journal": "Experimental Brain Research",
+    "doi_or_url": "https://doi.org/10.1007/s00221-009-1805-6",
+    "citation_count": 45,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2157991343",
+    "title": "Misattribution of movement agency following right parietal TMS",
+    "authors": [
+      "Catherine Preston",
+      "Roger Newport"
+    ],
+    "year": 2007,
+    "journal": "Social Cognitive and Affective Neuroscience",
+    "doi_or_url": "https://doi.org/10.1093/scan/nsm036",
+    "citation_count": 44,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2048560753",
+    "title": "Mental Imagery of Self-Location during Spontaneous and Active Self\u2013Other Interactions: An Electrical Neuroimaging Study",
+    "authors": [
+      "B\u00e9rang\u00e8re Thirioux",
+      "Manuel Mercier",
+      "G\u00e9rard Jorland",
+      "Alain Berthoz",
+      "Olaf Blanke"
+    ],
+    "year": 2010,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.3403-09.2010",
+    "citation_count": 44,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2109221351",
+    "title": "Impaired mental rotation in benign paroxysmal positional vertigo and acute vestibular neuritis",
+    "authors": [
+      "Matteo Candidi",
+      "Alessandro Micarelli",
+      "Andrea Viziano",
+      "Salvatore Maria Aglioti",
+      "Ilaria Minio-Paluello",
+      "Marco Alessandrini"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2013.00783",
+    "citation_count": 44,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1998121268",
+    "title": "Motor Imagery in Asperger Syndrome: Testing Action Simulation by the Hand Laterality Task",
+    "authors": [
+      "Massimiliano Conson",
+      "Elisabetta Mazzarella",
+      "Alessandro Frolli",
+      "Dalila Esposito",
+      "Nicoletta Marino",
+      "Luigi Trojano",
+      "Angelo Massagli",
+      "Giovanna Gison",
+      "Nellantonio Aprea",
+      "Dario Grossi"
+    ],
+    "year": 2013,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0070734",
+    "citation_count": 43,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2166487418",
+    "title": "Effects of Hand Orientation on Motor Imagery - Event Related Potentials Suggest Kinesthetic Motor Imagery to Solve the Hand Laterality Judgment Task",
+    "authors": [
+      "M.L.A. Jongsma",
+      "Ruud G. J. Meulenbroek",
+      "Judith A. Okely",
+      "C. Marjolein Baas",
+      "Rob van der Lubbe",
+      "Bert Steenbergen"
+    ],
+    "year": 2013,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0076515",
+    "citation_count": 43,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3025679804",
+    "title": "Methodological Considerations Concerning Motion Sickness Investigations during Automated Driving",
+    "authors": [
+      "Dominik M\u00fchlbacher",
+      "Markus Tomzig",
+      "Katharina Reinm\u00fcller",
+      "Lena Rittger"
+    ],
+    "year": 2020,
+    "journal": "Information",
+    "doi_or_url": "https://doi.org/10.3390/info11050265",
+    "citation_count": 43,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2036549508",
+    "title": "The left inferior parietal lobe represents stored hand-postures for object use and action prediction",
+    "authors": [
+      "Michiel van Elk"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2014.00333",
+    "citation_count": 43,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2122251519",
+    "title": "Perceptual asymmetries and handedness: a neglected link?",
+    "authors": [
+      "Daniele Marzoli",
+      "Giulia Prete",
+      "Luca Tommasi"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2014.00163",
+    "citation_count": 42,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  }
+]

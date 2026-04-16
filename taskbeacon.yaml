@@ -1,0 +1,21 @@
+id: T000045
+slug: hand-laterality-judgment
+title: Hand Laterality Judgment
+acquisition: behavior
+variant: baseline
+cognitive_domain:
+  - mental-rotation
+  - visuospatial-processing
+  - body-representation
+maturity: draft
+version:
+  release_tag: v0.1.0-dev
+contracts:
+  psyflow_taps: v0.1.0
+evidence:
+  - references/references.yaml
+  - references/references.md
+  - references/parameter_mapping.md
+  - references/stimulus_mapping.md
+  - references/task_logic_audit.md
+maintainer: []

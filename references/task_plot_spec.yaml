@@ -1,0 +1,175 @@
+task_plot_spec:
+  spec_version: '0.2'
+  meta:
+    task_name: Hand Laterality Judgment
+    mode: existing
+    task_id: ''
+  figure:
+    output:
+      filename: task_flow.png
+      dpi: 300
+      width_in: 16.0
+      background: white
+    layout:
+      max_conditions: 2
+      screens_per_timeline: 7
+      screen_overlap_ratio: 0.1
+      screen_slope: 0.08
+      screen_slope_deg: 25.0
+      timeline_gap: 0.18
+      screen_aspect_ratio: 1.4545454545454546
+      left_margin: 0.2
+      right_margin: 0.03
+      top_margin: 0.03
+      bottom_margin: 0.05
+      condition_label_gap: 0.014
+      phase_label_pad: 0.01
+      duration_label_gap: 0.006
+      timeline_arrow_gap: 0.01
+      timeline_arrow_screen_clearance: 0.007
+      timeline_arrow_text_clearance: 0.01
+      timeline_arrow_extra_per_screen: 0.015
+      timeline_arrow_min_y: 0.02
+      timeline_arrow_max_y: 0.96
+  timelines:
+  - condition: practice
+    display_condition_label: Practice
+    phases:
+    - phase_name: fixation
+      display_phase_label: Fixation
+      duration_ms: null
+      response_window_ms: null
+      display_timing_label: ''
+      stim_ids:
+      - fixation
+      stimulus_example:
+        summary: +
+        modality: visual
+        draw_hint: text
+        render_items:
+        - kind: text
+          text: +
+          color: white
+          pos:
+          - 0.0
+          - 0.0
+          height: 48.0
+      notes: ''
+    - phase_name: response window
+      display_phase_label: Response Window
+      duration_ms: null
+      response_window_ms:
+        fixed: 8000
+      display_timing_label: Resp 8000 ms
+      stim_ids:
+      - hand_palm_left
+      stimulus_example:
+        summary: hand_palm_left
+        modality: visual
+        draw_hint: image
+        render_items:
+        - kind: image_ref
+          path: E:\Taskbeacon\T000045-hand-laterality-judgment\assets\hand_palm_left.png
+          label: hand_palm_left
+      notes: ''
+    - phase_name: feedback
+      display_phase_label: Feedback
+      duration_ms: null
+      response_window_ms: null
+      display_timing_label: ''
+      stim_ids:
+      - practice_feedback_incorrect
+      stimulus_example:
+        summary: 错误
+        modality: visual
+        draw_hint: text
+        render_items:
+        - kind: text
+          text: 错误
+          color: orange
+          pos:
+          - 0.0
+          - 0.0
+          height: 36.0
+      notes: condition==practice
+    - phase_name: iti
+      display_phase_label: ITI
+      duration_ms: null
+      response_window_ms: null
+      display_timing_label: ''
+      stim_ids:
+      - fixation
+      stimulus_example:
+        summary: +
+        modality: visual
+        draw_hint: text
+        render_items:
+        - kind: text
+          text: +
+          color: white
+          pos:
+          - 0.0
+          - 0.0
+          height: 48.0
+      notes: ''
+  - condition: test
+    display_condition_label: Test
+    phases:
+    - phase_name: fixation
+      display_phase_label: Fixation
+      duration_ms: null
+      response_window_ms: null
+      display_timing_label: ''
+      stim_ids:
+      - fixation
+      stimulus_example:
+        summary: +
+        modality: visual
+        draw_hint: text
+        render_items:
+        - kind: text
+          text: +
+          color: white
+          pos:
+          - 0.0
+          - 0.0
+          height: 48.0
+      notes: ''
+    - phase_name: response window
+      display_phase_label: Response Window
+      duration_ms: null
+      response_window_ms:
+        fixed: 8000
+      display_timing_label: Resp 8000 ms
+      stim_ids:
+      - hand_palm_left
+      stimulus_example:
+        summary: hand_palm_left
+        modality: visual
+        draw_hint: image
+        render_items:
+        - kind: image_ref
+          path: E:\Taskbeacon\T000045-hand-laterality-judgment\assets\hand_palm_left.png
+          label: hand_palm_left
+      notes: ''
+    - phase_name: iti
+      display_phase_label: ITI
+      duration_ms: null
+      response_window_ms: null
+      display_timing_label: ''
+      stim_ids:
+      - fixation
+      stimulus_example:
+        summary: +
+        modality: visual
+        draw_hint: text
+        render_items:
+        - kind: text
+          text: +
+          color: white
+          pos:
+          - 0.0
+          - 0.0
+          height: 48.0
+      notes: ''
+  legend: []
